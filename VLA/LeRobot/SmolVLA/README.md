@@ -1,5 +1,6 @@
 # SmolVLA
-
+---
+## Summary
 - SmolVLA (Small Vision-Language-Action) is an open-source, compact artificial intelligence model for robotics developed by Hugging Face in collaboration with the community. It is designed to run efficiently on consumer-grade hardware and uses publicly available datasets, which democratizes access to advanced robotics. 
 
 - Key features of SmolVLA include:
@@ -12,13 +13,15 @@
     - Asynchronous inference To improve responsiveness and reduce idle time, SmolVLA uses an asynchronous inference stack. This allows the robot to begin executing its next set of actions while the model is still processing the current observation.
     - High performance Despite its smaller size, SmolVLA is highly capable. In both simulated environments (like LIBERO and Meta-World) and with real robots (like the SO100), it has been shown to match or exceed the performance of much larger VLA models. 
 
-- Block Diagram of SmolVLA
-    - <img src="https://cdn-uploads.huggingface.co/production/uploads/640e21ef3c82bd463ee5a76d/aooU0a3DMtYmy_1IWMaIM.png" alt="Your image title" width=30% height=30%/>
+----
+## ***Block Diagram of SmolVLA***
+<img src="https://cdn-uploads.huggingface.co/production/uploads/640e21ef3c82bd463ee5a76d/aooU0a3DMtYmy_1IWMaIM.png" alt="Your image title" width=30% height=30%/>
     
     
 
-- VAL Flow Matching
-    - <img src="https://learnopencv.com/wp-content/uploads/2025/06/smolvla-architecture-vlm-flowmatching-lerobot.png" alt="Your image title" width=30% height=30%/>
+
+## ***VLA Flow Matching***
+<img src="https://learnopencv.com/wp-content/uploads/2025/06/smolvla-architecture-vlm-flowmatching-lerobot.png" alt="Your image title" width=30% height=30%/>
 
 ---
 
