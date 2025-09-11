@@ -10,4 +10,5 @@
 
  pip install 'lerobot[all]'
  pip install ipykernel
+ pip install ipywidgets
  ```
