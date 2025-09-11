@@ -1,7 +1,6 @@
 # LeRobot
 
-### Setup
-- Ref : https://huggingface.co/docs/lerobot/main/en/installation
+### Setup a conda environment
 
  ```
  conda create -y -n lerobot python=3.10
@@ -12,3 +11,20 @@
  pip install ipykernel
  pip install ipywidgets
  ```
+
+
+---
+### Reference:
+
+
+- ***Papers***:
+    - ....
+
+- ***Blog***:
+    - ....
+
+- ***Github***:
+    - https://huggingface.co/docs/lerobot/main/en/installation
+    - https://github.com/huggingface/notebooks/tree/main/lerobot
+
+
