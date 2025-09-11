@@ -21,7 +21,8 @@
     - ....
 
 - ***Blog***:
-    - ....
+    - [LeRobot](https://huggingface.co/lerobot)
+
 
 - ***Github***:
     - https://huggingface.co/docs/lerobot/main/en/installation
