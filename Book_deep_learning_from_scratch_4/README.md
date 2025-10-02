@@ -8,8 +8,9 @@
 
  pip install ipykernel ipywidgets
  pip install moviepy==1.0.2 opencv-python
- pip install torch renderlab dezero matplotlib
+ pip install torch renderlab matplotlib
  pip install "gymnasium[classic-control]"`
+ pip install stable_baselines3
  ```
 
 ---
