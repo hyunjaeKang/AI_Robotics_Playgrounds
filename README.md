@@ -15,3 +15,6 @@
 - ***Github***:
     - [awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
     - [Awesome VLA](https://github.com/yueen-ma/awesome-vla)
+
+
+
