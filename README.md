@@ -11,6 +11,7 @@
 
 - ***Blog***:
     - [Policies in AI Robotics](https://docs.phospho.ai/learn/policies)
+    - [LIBERO](https://libero-project.github.io/main.html)
 
 - ***Github***:
     - [awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
