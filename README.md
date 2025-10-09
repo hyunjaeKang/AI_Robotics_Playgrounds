@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <th align="left" rowspan="1"><a href="./Book_deep_learning_from_scratch_4/">Book_deep_learning_from_scratch_4</a></th>
-      <th align="left" rowspan="1">Demo notebooks for <i>Book_deep_learning_from_scratch_4</i></th>
+      <th align="left" rowspan="1">Demo notebooks for <i>Deep learning from scratch 4</i></th>
     </tr>
     <tr>
       <th align="left" rowspan="1"><a href="./LeRobot/">LeRobot</a></th>
