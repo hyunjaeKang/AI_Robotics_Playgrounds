@@ -100,3 +100,8 @@ A comprehensive comparison of major Vision-Language-Action (VLA) models released
 2. **Benchmark expansion:** Evaluate OFT vs π0.5 on LIBERO or custom dexterous tasks.
 3. **For humanoid research:** Experiment with GR00T N1’s diffusion-based control.
 4. **Follow-up research goal:** Unified evaluation suite for all open VLAs (LIBERO++, 2025).
+
+
+----
+
+Powered by ChatGPT

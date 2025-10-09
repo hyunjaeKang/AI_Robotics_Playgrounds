@@ -1,10 +1,19 @@
 # Diffusion Policy
 
+---
+
 <img src="https://github.com/real-stanford/diffusion_policy/raw/main/media/teaser.png" alt="Your image title" width=100% height=100%/>
 
------
+----
 
-## Reference:
+### Setup a conda environment
+
+
+- conda env : [le_robot](../README.md#setup-a-conda-environment)
+
+---
+
+### References:
 
 
 - ***Paper***:
@@ -19,6 +28,7 @@
 
 - ***Github***:
     - https://github.com/real-stanford/diffusion_policy
+
 
 - ***Dataset***:
     - [Diffusion Policy: How Diffusion Models Are Transforming Robot Learning from Demonstration](https://kargarisaac.medium.com/diffusion-policy-how-diffusion-models-are-transforming-robot-learning-from-demonstration-32c27ba829cf)

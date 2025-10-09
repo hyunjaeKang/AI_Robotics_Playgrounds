@@ -322,3 +322,6 @@ Pick any/all and I’ll run it immediately (I’ve already fetched the sources a
 
 
 
+-----
+
+Powered by ChatGPT
