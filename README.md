@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <th align="left" rowspan="1"><a href="./Cookbooks/">Cookbooks</a></th>
-      <th align="left" rowspan="1">A collection of notebook for AI Robotics</i></th>
+      <th align="left" rowspan="1">A collection of notebook for AI Robotics</th>
     </tr>
     <tr>
       <th align="left" rowspan="1"><a href="./Book_deep_learning_from_scratch_4/">Book_deep_learning_from_scratch_4</a></th>

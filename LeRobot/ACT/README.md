@@ -15,6 +15,60 @@ Fig. 4: Architecture of Action Chunking with Transformers (ACT). We train ACT as
 
 - conda env : [le_robot](../README.md#setup-a-conda-environment)
 
+
+----
+
+- **ACtion Chunking Transformer (ACT) Policy / AlohaTransferCube**
+<table border="1">
+  <tbody>
+    <tr>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/ACT/output/train_videos_act_aloha_transfer/videos_step_020000/eval_episode_0.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #0
+          </figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/ACT/output/train_videos_act_aloha_transfer/videos_step_020000/eval_episode_1.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #1
+          </figcaption>
+        </figure>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/ACT/output/train_videos_act_aloha_transfer/videos_step_020000/eval_episode_2.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #2
+          </figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/ACT/output/train_videos_act_aloha_transfer/videos_step_020000/eval_episode_3.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #3
+          </figcaption>
+        </figure>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ---
 
 ### References:
@@ -28,3 +82,5 @@ Fig. 4: Architecture of Action Chunking with Transformers (ACT). We train ACT as
 
 - ***Github***:
     - https://github.com/tonyzhaozh/act
+
+

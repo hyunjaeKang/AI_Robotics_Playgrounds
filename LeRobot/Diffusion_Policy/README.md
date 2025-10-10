@@ -11,6 +11,60 @@
 
 - conda env : [le_robot](../README.md#setup-a-conda-environment)
 
+
+---
+
+- **Diffusion Policy / PushT**
+<table border="1">
+  <tbody>
+    <tr>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/Diffusion_Policy/output/train_videos_pusht/videos_step_200000/eval_episode_0.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #0
+          </figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/Diffusion_Policy/output/train_videos_pusht/videos_step_200000/eval_episode_1.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #1
+          </figcaption>
+        </figure>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/Diffusion_Policy/output/train_videos_pusht/videos_step_200000/eval_episode_2.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #2
+          </figcaption>
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <video width="320" height="240" controls>
+            <source src="https://github.com/hyunjaeKang/AI_Robotics_Playgrounds/raw/main/LeRobot/Diffusion_Policy/output/train_videos_pusht/videos_step_200000/eval_episode_3.mp4" type="video/mp4">
+          </video>
+          <figcaption align="center">
+            Episode #3
+          </figcaption>
+        </figure>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ---
 
 ### References:
