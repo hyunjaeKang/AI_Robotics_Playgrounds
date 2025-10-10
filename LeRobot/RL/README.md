@@ -1,6 +1,6 @@
 # Train RL in Simulation
 
-<img src="screenshot.png" alt="LeRobot RL in Simulation" width=50% height=50%/>
+<img src="./screenshot_resize.jpg" alt="LeRobot RL in Simulation" width=50% height=50%/>
 
 ----
 
