@@ -102,6 +102,7 @@
     - https://pab47.github.io/mujoco.html
     - https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb#scrollTo=ObF1UXrkb0Nd
     - https://github.com/AtsushiSakai/PythonRobotics
+    - https://github.com/ai-winter/python_motion_planning/tree/master
 
 <p></p>
 
