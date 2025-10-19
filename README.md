@@ -52,6 +52,10 @@
       <th align="left" rowspan="1"><a href="./Mujoco/">Mujoco</a></th>
       <th align="left" rowspan="1">Python tutorial notebooks for MuJoCo</th>
     </tr>
+    <tr>
+      <th align="left" rowspan="1"><a href="./PythonRobotics/">PythonRobotics</a></th>
+      <th align="left" rowspan="1">Python example notebooks for Robotics algorithms</th>
+    </tr>
   </tbody>
 </table>
 
@@ -82,6 +86,7 @@
     - https://huggingface.co/lerobot/act_aloha_sim_transfer_cube_human
     - https://tonyzhaozh.github.io/aloha/
     - https://mujoco.readthedocs.io/en/stable/overview.html
+    - https://pythonrobotics.io/
 
 <p></p>
 
@@ -96,6 +101,7 @@
     - https://github.com/tonyzhaozh/act
     - https://pab47.github.io/mujoco.html
     - https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb#scrollTo=ObF1UXrkb0Nd
+    - https://github.com/AtsushiSakai/PythonRobotics
 
 <p></p>
 
