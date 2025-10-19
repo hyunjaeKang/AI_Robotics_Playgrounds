@@ -1,4 +1,4 @@
-# AI Robotics Drills
+# AI Robotics Playgrounds
 
 ----
 
@@ -9,12 +9,17 @@
  conda activate ai_robotics
 
  pip install ipykernel ipywidgets
- pip install moviepy==1.0.2 opencv-python
- pip install torch renderlab matplotlib
- pip install "gymnasium[classic-control]"`
- pip install stable_baselines3
+ pip install moviepy==1.0.2 opencv-python mediapy
+ pip install torch renderlab matplotlib scipy
+ pip install "gymnasium[classic-control]" mujoco
+ pip install stable_baselines3 nlopt
+
  ```
 
+ - [Note] If you have an issue with ffmpeg
+ ```
+ conda install -c conda-forge ffmpeg=7.1.0
+ ```
 ----
 
 ### AI Robotics Playgrounds
@@ -42,6 +47,10 @@
     <tr>
       <th align="left" rowspan="1"><a href="./OpenPI/">OpenPI</a></th>
       <th align="left" rowspan="1">Simple demos of π0 policy</th>
+    </tr>
+    <tr>
+      <th align="left" rowspan="1"><a href="./Mujoco/">Mujoco</a></th>
+      <th align="left" rowspan="1">Python tutorial notebooks for MuJoCo</th>
     </tr>
   </tbody>
 </table>
@@ -72,6 +81,7 @@
     - https://huggingface.co/lerobot/diffusion_pusht
     - https://huggingface.co/lerobot/act_aloha_sim_transfer_cube_human
     - https://tonyzhaozh.github.io/aloha/
+    - https://mujoco.readthedocs.io/en/stable/overview.html
 
 <p></p>
 
@@ -84,6 +94,8 @@
     - https://huggingface.co/docs/lerobot/main/en/installation
     - https://github.com/huggingface/notebooks/tree/main/lerobot
     - https://github.com/tonyzhaozh/act
+    - https://pab47.github.io/mujoco.html
+    - https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb#scrollTo=ObF1UXrkb0Nd
 
 <p></p>
 

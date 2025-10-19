@@ -211,3 +211,5 @@ __marimo__/
 
 # MacOS temp files
 **DS_Store
+
+**.vscode**
