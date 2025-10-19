@@ -19,7 +19,7 @@
   </thead>
    <tbody>
     <tr>
-      <th align="left" rowspan="3"><a href="./Localization/">Localization</a></th>
+      <th align="left" rowspan="4"><a href="./Localization/">Localization</a></th>
       <th align="left" rowspan="1"><a href="./Localization/kalman_filter.ipynb">kalman_filter.ipynb</a></th>
       <th align="left" rowspan="1">Python example code for Extended Kalman Filter (EKF)</th>
     </tr>
@@ -30,6 +30,10 @@
     <tr>
       <th align="left" rowspan="1"><a href="./Localization/extended_kalman_filter.ipynb">extended_kalman_filter.ipynb</a></th>
       <th align="left" rowspan="1">Localization Sample : Extended kalman filter (EKF)</th>
+    </tr>
+    <tr>
+      <th align="left" rowspan="1"><a href="./Localization/particle_filter.ipynb">particle_filter.ipynb</a></th>
+      <th align="left" rowspan="1">Example code for a sensor fusion localization with Particle filter(PF).</th>
     </tr>
   </tbody>
 </table>
