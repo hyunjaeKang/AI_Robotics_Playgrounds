@@ -8,7 +8,7 @@
  conda install ffmpeg -c conda-forge
 
  pip install ipykernel ipywidgets
- pip install 'lerobot[all]'==0.3.3
+ pip install 'lerobot[all]'==0.4.2
 
  ```
 
